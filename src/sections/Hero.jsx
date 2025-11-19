@@ -9,7 +9,7 @@ const Hero = () => {
                 {/* Phần Text (Bên trái) */}
                 <div className="md:w-1/2 text-center md:text-left mb-10 md:mb-0">
                     <h2 className="text-blue-600 font-bold text-lg mb-2 tracking-wide uppercase">
-                        Frontend Developer
+                        Mỹ Anh ăn khu pò
                     </h2>
                     <h1 className="text-4xl md:text-6xl font-extrabold text-gray-900 leading-tight mb-6">
                         Hi, I'm <span className="text-blue-600">Nam</span>. <br />
@@ -50,7 +50,7 @@ const Hero = () => {
                     {/* Ảnh đại diện (Thay link ảnh của bạn vào src) */}
                     <div className="relative rounded-2xl overflow-hidden shadow-2xl border-4 border-white w-64 h-64 md:w-80 md:h-80">
                         <img
-                            src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?fit=crop&w=800&q=80"
+                            src=""
                             alt="Portrait"
                             className="object-cover w-full h-full"
                         />
